@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/ashTkinter.iml" filepath="$PROJECT_DIR$/.idea/ashTkinter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../other files/.idea/other files.iml" filepath="$PROJECT_DIR$/../other files/.idea/other files.iml" />
+    </modules>
+  </component>
+</project>
